@@ -70,6 +70,7 @@ region = us-east-1
 -   creation of a standard EKS cluster is very slow  
 -   EKS cluster deployment often times out
 -   there are too many bugs to consider CDK for EKS to be stable
+-   works only with AWS cloud
 
 
 ## Tested with
